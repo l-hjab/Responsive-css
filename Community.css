@@ -1,0 +1,188 @@
+﻿*
+{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-color:white;
+	background:cover;
+}
+.main{
+	font-size:15px;
+	font-family:poppins;
+	display:flex;
+	flex-direction:column;
+	cursor:pointer;
+}
+.Cont {
+	display:flex;
+	padding:30px;
+	font-family:Arial;
+	height:210px;
+	width:1300px;
+	margin-top:-10px;
+	float:center;
+	border:4px solid skyblue;
+	margin:5px;
+	background-color:skyblue;
+	color:navyblue;
+	position:relative;
+}
+.bttn{
+	float:right;
+	left:800px;
+	top:-10%;
+	position:relative;
+	border-radius:20px;
+	background-color:white;
+	color:navyblue;
+	border:1px solid white;
+	padding:9px;
+	font-size:10px;
+	margin:2px;
+	width:200px;
+	height:50px;
+	cursor:pointer;
+}
+.Cont .content{
+	font-size:15px;
+	padding:50px;
+	text-align:left;
+	height:100px;
+}
+.Cont .content h3{
+	margin:6px;
+	margin-top:-5px;
+	font-size:25px;
+	color:navyblue;
+}
+.btn{
+	border-radius:20px;
+	background-color:deeppink;
+	color:white;
+	padding:10px;
+	font-size:15px;
+	margin:10px;
+	border:1px solid deeppink;
+}
+.growtogether {
+	display:flex;
+	padding:30px;
+	font-family:Arial;
+	height:200px;
+	width:1000px;
+	margin-top:-10px;
+	float:center;
+	border:8px solid white;
+	left:200px;
+	margin:5px;
+	background-color:ghostwhite;
+	position:relative;
+	color:grey;
+}
+.growtogether h3{
+	margin:6px;
+	margin-top:-5px;
+}
+.growtogether .p{
+	padding:70px;
+	margin:5px;
+	float:right;
+	width:50%;
+}
+.conversation{
+	display:flex;
+	padding:30px;
+	font-family:Arial;
+	height:200px;
+	width:1000px;
+	margin-top:-10px;
+	border:8px solid white;
+	margin:5px;
+	left:190px;
+	background-color:ghostwhite;
+	text-align:center;
+	position:relative;
+	color:grey;
+}
+.conversation .par{
+	padding:70px;
+	margin:5px;
+	text-align:Center;
+	width:50%;
+}
+.Users{
+	display:flex;
+	padding:30px;
+	font-family:Arial;
+	height:200px;
+	width:1000px;
+	margin-top:-10px;
+	border:4px solid white;
+	margin:5px;
+	position:relative;
+	left:190px;
+	background-color:snow;
+	color:grey;
+	}
+.Users .user{
+	padding:70px;
+	margin:5px;
+	text-align:left;
+	width:50%;
+}
+.build{
+	padding:30px;
+	margin-left:100px;
+	float:center;
+	border:5px solid whitesmoke;
+	text-align:center;
+	width:300px;
+	position:relative;
+	left:200px;
+	background-color:whitesmoke;
+}
+.cn{
+	border-radius:20px;
+	background-color:deeppink;
+	color:white;
+	padding:9px;
+	font-size:10px;
+	margin:5px;
+	border:1px solid red;
+
+}
+.footer{
+	cursor:pointer;
+	background-color:teal;
+    display:flex;
+	padding:20px;
+}
+.footer .huddle{
+	padding:10px;
+	margin:10px;
+	text-align:Center;
+	font-size:15px;
+	color:white;
+}
+.footer .about{
+	padding:30px;
+	margin:20px;
+	text-align:center;
+	font-size:15px;
+
+}
+.footer .Career{
+	padding:30px;
+	margin:20px;
+	text-align:center;
+	font-size:15px;
+}
+.footer .p{
+	float:right;
+	position:relative;
+	left:390px;
+	padding:30px;
+	margin:50px;
+}
+
